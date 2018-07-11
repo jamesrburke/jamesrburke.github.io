@@ -27,7 +27,7 @@ linkedin_username: burkejam
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-them-modernist
 plugins:
   - jekyll-feed
 
