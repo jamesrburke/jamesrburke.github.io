@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Draft"
+date: "2018-07-11 19:53:09 -0500"
+---
+
+Keeping this just in case I decide to bring back _posts. 

@@ -1,7 +1,0 @@
----
-layout: post
-title: "corps"
-date: "2018-07-11 19:53:09 -0500"
----
-
-Fun time.
